@@ -18,8 +18,8 @@ Time spent: **4** hours spent in total
 The following **required** functionality is completed:
 
 - [X] User can change the number of letters per row (the length of the goal word)
-- [X ] User can change the numbers of rows on the board (how many guesses allowed)
-- [X ] User can select a new themed set to pull the goal word from
+- [X] User can change the numbers of rows on the board (how many guesses allowed)
+- [X] User can select a new themed set to pull the goal word from
 - [X] User can select "alien wordle", causing the goal word to change after each guess
 
 
