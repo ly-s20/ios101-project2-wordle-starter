@@ -4,10 +4,11 @@
 
 Submitted by: **San Ly**
 
-**Wordle** is an app that ... [Update the number of letters.
-Update the number of guesses.
-Update the theme settings.
-Update the alien wordle settings.] 
+**Wordle** is an app that ... [ allows users to
+1. Update the number of letters.
+2. Update the number of guesses.
+3. Update the theme settings.
+4. Update the alien wordle settings.] 
 
 Time spent: **4** hours spent in total
 
